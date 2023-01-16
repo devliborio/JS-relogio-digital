@@ -12,3 +12,7 @@ Falando o pouco do projeto em si, ele funciona basicamento como um relogio digit
 Com esse projeto pude aprender a usar melhor o objeto Date(), como puxar o tempo com ele e manipular esses dados da forma que eu bem entendesse, pude entender melhor sobre temporizadores também, e onde eu tive mais base de conhecimento aprimorada foi no CSS, onde precisei formular uma ideia de deixar o mais harmonico possivel aos olhos do usuario, foram diversos recursos aplicados, flexbox, linear-gradient e até algumas unidades de médida que raramente eu uso se mostraram bem uteis para resolver problemas de simetria como o vh (viewport height).
 
 Justamente por demandar bastantes regras no CSS foi nessa parte que eu obtive grande dificuldade em deixar tudo bem organizado e logico e atraves de procuras em documentação, videos, cursos consegui formar uma junção de ideais e aplicar no meu projeto, finalizando desta forma como está atualmente.
+
+## Stack utilizada
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
