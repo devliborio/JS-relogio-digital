@@ -5,6 +5,7 @@ Esse projeto vem com o intuito de basicamente demonstrar meus conhecimentos em J
 
 Falando o pouco do projeto em si, ele funciona basicamento como um relogio digital comum, normalmente usado atualmente em relogios mais modernos como Applewatch e Miband, etc. e vem com o objetivo de somente da um estetica mais agradavel ao usuario se por algum motivo ele queira deixar por exemplo um monitor focado só em mostrar o horário em tempo real iria servir para esse uso pois ele tem uma aparencia bem agradavel ao olho e é bem elegante também. 
 
+#### Link do Projeto: https://devliborio.github.io/JS-relogio-digital/
 
 ## Aprendizados
 
